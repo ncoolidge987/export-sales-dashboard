@@ -1,0 +1,5 @@
+pandas>=2.0.0
+plotly>=5.0.0
+ipywidgets>=8.0.0
+sqlite3  # Note: This is part of Python's standard library, so typically not needed here, but included for clarity
+voila>=0.5.0
